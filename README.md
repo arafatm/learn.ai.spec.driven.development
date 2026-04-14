@@ -25,9 +25,9 @@ npm install
 | Lesson_08 | Project Replanning | Phase 1 merged to main, ready for replanning |
 | Lesson_09 | 2nd Feature Phase | Replanning complete (testing, responsive design, changelog skill added) |
 | Lesson_10 | MVP | Phase 2 "Agents & Ailments" merged, full app ready for MVP sprint |
-| Lesson_11 | Legacy Support | *Coming soon* |
-| Lesson_12 | Build Your Own Workflow | *Coming soon* |
-| Lesson_13 | Agent Replaceability | *Coming soon* |
+| Lesson_11 | Legacy Support | MVP fully implemented, ready for legacy SDD introduction |
+| Lesson_12 | Build Your Own Workflow | Rebuilt legacy constitution + Feedback Form feature implemented |
+| Lesson_13 | Agent Replaceability | Feedback Form merged, feature-spec skill created, next feature spec drafted, backlog/ with research notes |
 
 Lessons 1-3 (Introduction, Workflow Overview, and Setup) are conceptual and do not have starter code.
 
