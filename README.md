@@ -16,6 +16,8 @@ npm install
 
 ## Lesson overview
 
+Each lesson folder contains the **complete starter code** for that lesson and **all prompts used** throughout the video.
+
 | Folder | Lesson | What you're starting with |
 |--------|--------|--------------------------|
 | Lesson_04 | Creating the Constitution | Empty project scaffold (package.json, tsconfig.json, src/index.ts) |
@@ -33,6 +35,7 @@ Lessons 1-3 (Introduction, Workflow Overview, and Setup) are conceptual and do n
 
 ## Other directories
 
+- **`prompts/`** -- All lesson prompts in one place. Each file contains the numbered prompts for that lesson. Copies also live inside each `Lesson_N/` folder as `prompts.md`.
 - **`skills/`** -- Reusable agent skills developed during the course (changelog, feature-spec).
 - **`example_specs/`** -- Example specification documents referenced in the course.
 
